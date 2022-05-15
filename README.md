@@ -1,5 +1,6 @@
 # Measure Execution Time of Audio Spectrogram Transformer Model
-This project is to measure the execution time of Audio Spectrogram Transformer (AST) model
+This project is to measure the execution time of Audio Spectrogram Transformer (AST) model on Amazon Web Services (AWS).
+
 The source code of AST model can be found here
 https://github.com/YuanGongND/ast
 
