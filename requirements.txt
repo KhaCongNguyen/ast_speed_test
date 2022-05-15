@@ -3,4 +3,5 @@ torchaudio==0.8.0
 SoundFile==0.10.3.post1 # if run on Windows
 sox==1.4.1 # if run on Linux, you can also install by "apt install sox"
 onnxruntime==1.11.0
+openvino-dev[pytorch,onnx]
 
